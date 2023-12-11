@@ -10,6 +10,10 @@
 
 Ramdeobaba College of Engineering and Management,Nagpur 
 
+**Technical Skills**
+
+ESRI: ArcGIS Pro, ArcMAP;QGIS; SAGA GIS; Python: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, gdal, OpenCV; Google Earth Engine; PostgreSQL
+
 **Working Experience**
 
 **(2022-Present) Geospatial Data Analyst at National Bureau of Soil Survey and Land use Planning, Nagpur, India**
